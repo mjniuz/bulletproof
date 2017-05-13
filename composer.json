@@ -1,6 +1,6 @@
 {
     "name": "mjniuz/bulletproof",
-    "description": "A simple and secure PHP image uploader",
+    "description": "A simple and secure PHP image uploader, forked from https://github.com/samayo/bulletproof",
     "keywords": ["image", "upload", "security"],
     "homepage": "http://github.com/mjniuz/bulletproof",
     "license": "MIT",
@@ -17,7 +17,8 @@
     },
     "autoload": {
         "files": [
-            "src/bulletproof.php"
+            "src/bulletproof.php",
+            "src/render.php"
         ]
     }
 }
