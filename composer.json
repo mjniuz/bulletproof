@@ -1,8 +1,8 @@
 {
-    "name": "samayo/bulletproof",
+    "name": "mjniuz/bulletproof",
     "description": "A simple and secure PHP image uploader",
     "keywords": ["image", "upload", "security"],
-    "homepage": "http://github.com/samayo/bulletproof",
+    "homepage": "http://github.com/mjniuz/bulletproof",
     "license": "MIT",
     "authors": [
         {
